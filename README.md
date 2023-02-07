@@ -3,14 +3,14 @@
 ### Enter names below this line
 *****My name is Arshiya Naheedi
 My name is Kishore
-=======
+
 ***My name is Abhinay Nalam  
 *****My name is Arshiya Naheed  
 ***druva  
 ****Adding new line by kk  
 ****Adding new line  
-<<<<<<< HEAD
-=======
+**** new line added  
+
+
 ****Adding newest line   
->>>>>>> main
 **** new line added
